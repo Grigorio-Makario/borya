@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sql select
 qwe
 aw
@@ -14,3 +15,6 @@ fda
 wsf
 asdf
 q
+=======
+sql select
+>>>>>>> fe81c5c4cb1cc27bec8144e69b17759da1b0c536
